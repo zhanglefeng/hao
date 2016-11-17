@@ -18,4 +18,8 @@
 		echo "33链接失败";
 	}
 	mysql_close($con)
+
+	echo("测试用的了")
+	echo("测试用的了")
+	echo("测试用的了")
 ?>
